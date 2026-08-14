@@ -1,0 +1,1 @@
+CREATE TABLE `online_store`.`product details` (`id` INT(25) NOT NULL , `name` VARCHAR(25) NOT NULL , `category` VARCHAR(25) NOT NULL , `price` INT(25) NOT NULL , `in_stock` TEXT NOT NULL ) ENGINE = InnoDB;
